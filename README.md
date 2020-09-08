@@ -13,12 +13,16 @@ Vous avez deux possibilités :
 Une fois Unity installé et lancé, il faudra que vous configurier Virtual Studio code afin de pouvoir utiliser les class de Unity.
 petit tutoriel rapide pour configurer ça en 5 minutes : https://www.youtube.com/watch?v=qCkFzMSILzk&t=252s&ab_channel=JeremyBullock
 
+Ensuite, il faudra cloner mon repo. Celui-ci contient les images utilisées pour la création du jeu.
+
 - 2 : Vous pouvez juste regarder sans coder de chez-vous si vous êtes juste curieux.
 
 Connaissant mon niveau qui est NUL en anglais, cette veille se fera en français (désolé Nick...) 
 
 Pour finir, le temps de ce workshop devrait prendre 1h30 grand max. En espérant vous voir demain, je vous souhaite une bonne jorunée,
 Geoffrey
+
+
 
 
 VERSION EN (merci google traduction).
@@ -32,8 +36,9 @@ You have two options:
 - 1: You can make the flappy bird with me, in this case you will just have to download Unity Hub in advance with the version you want. For my part, I had made this game with the 2018 version of Unity. Even if many changes have taken place between the 2018 and 2019 version, you will see that there will be no difference in making this game. The Unity Hub link is available here: https://unity3d.com/en/ get-unity / download
 Once Unity is installed and launched, you will need to configure Virtual Studio code in order to be able to use Unity's classes.
 quick little tutorial to set it up in 5 minutes: https://www.youtube.com/watch?v=qCkFzMSILzk&t=252s&ab_channel=JeremyBullock
-
+Then, you will have to clone my repo. This contains the images used to create the game.
 - 2: You can just watch without coding from home if you are just curious.
+
 
 Knowing my level which is NULL in English, this eve will be in French (sorry Nick ...)
 
